@@ -4,6 +4,9 @@
 
 StyleOasis is an online clothing store that allows users to browse, buy and sell a variety of clothing items. Users can create an account, log in and add items to their cart. They can also add their own items for sale by filling out a form and uploading a picture. Users can see the details of each item, such as the name, price, category and description. Users can also add products to their cart and proceed to checkout. The checkout process simulates a payment transaction and displays a confirmation message.
 
+![Screenshot 2023-05-23 150724](https://github.com/mcvetanovska/StyleOasis/assets/57496930/31b7ee3e-1f8c-4f93-ac82-17c6dbd96ec3)
+
+
 ## - Prototype
 
 Link to a hosted version of the prototype
